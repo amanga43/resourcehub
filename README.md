@@ -8,6 +8,7 @@ The system provides a centralized way to manage resources and reservations. It a
 
 The application also uses database-level constraints to prevent overlapping confirmed reservations for the same resource.
 
+**Live Demo:** [Open ResourceHub](https://resourcehub-qtq94yw42-amanga43s-projects.vercel.app/)
 ## Features
 
 - **Dashboard:** View an overview of resources and reservations.
